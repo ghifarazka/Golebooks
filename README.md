@@ -1,3 +1,5 @@
+<h1 align="center"><img src="./golebooks-logo.png"></h1>
+
 [`Golebooks`](#golebooks) | [`Dataset`](#dataset) | [`Full Code`](#full-code) | [`Paper`](#paper) | [`Our Team`](#our-team)
 :---:|:---:|:---:|:---:|:---:
 
